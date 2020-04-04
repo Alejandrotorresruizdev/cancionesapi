@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cancionesapi/static/css/main.ff9c8e57.chunk.css",
+    "main.js": "/cancionesapi/static/js/main.30158909.chunk.js",
+    "main.js.map": "/cancionesapi/static/js/main.30158909.chunk.js.map",
+    "runtime-main.js": "/cancionesapi/static/js/runtime-main.885cd675.js",
+    "runtime-main.js.map": "/cancionesapi/static/js/runtime-main.885cd675.js.map",
+    "static/js/2.aa23f0cd.chunk.js": "/cancionesapi/static/js/2.aa23f0cd.chunk.js",
+    "static/js/2.aa23f0cd.chunk.js.map": "/cancionesapi/static/js/2.aa23f0cd.chunk.js.map",
+    "index.html": "/cancionesapi/index.html",
+    "precache-manifest.ca25e8f720d94e78410123abde0913fa.js": "/cancionesapi/precache-manifest.ca25e8f720d94e78410123abde0913fa.js",
+    "service-worker.js": "/cancionesapi/service-worker.js",
+    "static/css/main.ff9c8e57.chunk.css.map": "/cancionesapi/static/css/main.ff9c8e57.chunk.css.map",
+    "static/js/2.aa23f0cd.chunk.js.LICENSE.txt": "/cancionesapi/static/js/2.aa23f0cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.885cd675.js",
+    "static/js/2.aa23f0cd.chunk.js",
+    "static/css/main.ff9c8e57.chunk.css",
+    "static/js/main.30158909.chunk.js"
+  ]
+}
